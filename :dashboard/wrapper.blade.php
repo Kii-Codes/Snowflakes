@@ -117,43 +117,42 @@
 </style>
 <div class="snowflakes" aria-hidden="true">
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">$</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">/</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">Z</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">Y</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">X</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">√</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">÷</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">×</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">%</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">(10x + 102) ÷ 10</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">0x4</div>
   </div>
   <div class="snowflake">
-    <div class="inner">●</div>
+    <div class="inner">π</div>
   </div>
 </div>
-<img src="/extensions/snowflakes/snow.png" class="snow">
 
 
 <style id="snowflakes-extension">
